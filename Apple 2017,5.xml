@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Apple AvgVolume="false"
+	AskBidSize="true"
+	RefreshDayHighLow="false"
+	AskBid="true"
+	Volume="false"
+	RefreshYearHighLow="true"
+	RealGap="360.0"
+	HighLow="true"
+	IncludeStats="false"
+	UseOriginalConfig="false"
+	PreferedName="Apple">
+  <day11>
+    <index0 price="152.62"
+    	ask="152.62"
+    	time="05-11-10.51.50"
+    	dayLow="100"
+    	bid="152.61"
+    	dayHigh="300"/>
+  </day11>
+
+</Apple>

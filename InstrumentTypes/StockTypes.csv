@@ -1,0 +1,457 @@
+INSTRUMENT,COMPANY,MIN TRADED QUANTITY,MARGIN,LONG POSITION SWAP,SHORT POSITION SWAP,MARKET HOURS *
+21CenturyFox,Twenty-First Century Fox Inc,10,5%,-0.002636,-0.00113,1:30 pm to 8:00 pm
+AA,Alcoa Inc.,20,5%,-0.003139,-0.001345,1:30 pm to 8:00 pm
+AAL,Anglo American plc,30,5%,-0.000909,-0.000606,7:00 am to 3:30 pm
+AAPL,Apple Inc.,1,5%,-0.014876,-0.006375,1:30 pm to 8:00 pm
+AberdeenAM,Aberdeen Asset Management plc,100,5%,-0.000241,-0.000161,7:00 am to 3:30 pm
+Abertis,Abertis Infraestructuras S.A.,15,5%,-0.001136,-0.001135,7:00 am to 3:30 pm
+AC,ACCOR SA,15,5%,-0.00287,-0.002867,7:00 am to 3:30 pm
+ACA,CREDIT AGRICOLE SA,50,5%,-0.000993,-0.000992,7:00 am to 3:30 pm
+ADBE,Adobe Systems Incorporated,10,5%,-0.013266,-0.005686,1:30 pm to 8:00 pm
+ADP,Automatic Data Processing,10,5%,-0.009587,-0.004109,1:30 pm to 8:00 pm
+ADS,adidas AG,5,5%,-0.011994,-0.011985,7:00 am to 3:30 pm
+ADSK,Autodesk; Inc.,10,5%,-0.010689,-0.004581,1:30 pm to 8:00 pm
+Aegon,AEGON NV,40,5%,-0.000307,-0.000307,7:00 am to 3:30 pm
+AGL,AUTOGRILL,75,5%,-0.000733,-0.000732,7:00 am to 3:25 pm
+AgnicoEagle,Agnico Eagle Mines Ltd,5,5%,-0.005543,-0.003696,1:30 pm to 8:00 pm
+Agrium,Agrium Inc,3,5%,-0.010421,-0.006948,1:30 pm to 8:00 pm
+Ahold,Koninklijke Ahold N.V.,20,5%,-0.001399,-0.001398,7:00 am to 3:30 pm
+AI,AIR LIQUIDE SA,5,5%,-0.007682,-0.007676,7:00 am to 3:30 pm
+AIG,American International Group Inc.,10,5%,-0.005951,-0.00255,1:30 pm to 8:00 pm
+Airbus,Airbus Group NV,5,5%,-0.005125,-0.005121,7:00 am to 3:30 pm
+AirFranceKLM,Air France KLM SA,100,5%,-0.000646,-0.000646,7:00 am to 3:30 pm
+AKAM,Akamai Technologies; Inc.,10,5%,-0.004606,-0.001974,1:30 pm to 8:00 pm
+AlaskaAir,Alaska Air Group; Inc.,2,10%,-0.008221,-0.003523,1:30 pm to 8:00 pm
+Alibaba,Alibaba Group,5,10%,-0.011975,-0.005132,1:30 pm to 8:00 pm
+ALO,ALSTOM SA,20,5%,-0.00214,-0.002139,7:00 am to 3:30 pm
+Alrosa,AK Alrosa PAO,100,20%,-0.033973,0.02139,7:00 am to 3:30 pm
+ALV,Allianz SE,5,5%,-0.011807,-0.011798,7:00 am to 3:30 pm
+AmadeusIT,Amadeus IT Holding SA,10,5%,-0.003599,-0.003596,7:00 am to 3:30 pm
+AMAT,Applied Materials; Inc.,30,5%,-0.004283,-0.001836,1:30 pm to 8:00 pm
+AMD,Advanced Micro Devices Inc.,10,5%,-0.001108,-0.000475,1:30 pm to 8:00 pm
+AmericanAirlines,American Airlines Group Inc,10,5%,-0.004397,-0.001885,1:30 pm to 8:00 pm
+AMGN,Amgen Inc,5,5%,-0.015218,-0.006522,1:30 pm to 8:00 pm
+AMZN,Amazon.com; Inc,1,5%,-0.093338,-0.040002,1:30 pm to 8:00 pm
+AnheuserBusch,Anheuser Busch Inbev SA,3,5%,-0.007335,-0.007329,7:00 am to 3:30 pm
+Antofagasta,Antofagasta plc,50,5%,-0.000675,-0.00045,7:00 am to 3:30 pm
+ANZ,Australia and New Zealand Banking Group,10,5%,-0.003364,-0.000594,12:03 am to 6:00 am
+ASMLholding,ASML Holding NV,2,5%,-0.00837,-0.008363,7:00 am to 3:30 pm
+AssecoPoland,Asseco Poland SA,5,10%,-0.005706,-0.001427,7:00 am to 2:45 pm
+Astellas,Astellas Pharma Inc,30,5%,-0.102664,-0.094767,11:05 pm to 5:00 am
+ATL,ATLANTIA,30,5%,-0.001729,-0.001727,7:00 am to 3:25 pm
+AtlasCopco,Atlas Copco AB,10,5%,-0.022123,-0.021947,7:00 am to 3:25 pm
+ATVI,Activision Blizzard; Inc.,25,5%,-0.005429,-0.002327,1:30 pm to 8:00 pm
+Aviva,Aviva plc,80,5%,-0.000444,-0.000296,7:00 am to 3:30 pm
+AXP,American Express Co,5,5%,-0.007462,-0.003198,1:30 pm to 8:00 pm
+AZM,AZIMUT HOLDING,20,5%,-0.001334,-0.001333,7:00 am to 3:25 pm
+AZN,AstraZeneca plc,10,5%,-0.004267,-0.002845,7:00 am to 3:30 pm
+BA,Boeing Co.,5,5%,-0.017563,-0.007527,1:30 pm to 8:00 pm
+BAC,Bank of America Corporation,30,5%,-0.00224,-0.00096,1:30 pm to 8:00 pm
+BAE,BAE Systems plc,100,5%,-0.000533,-0.000355,7:00 am to 3:30 pm
+BancoSantander,Banco Santander SA,30,5%,-0.000405,-0.000405,7:00 am to 3:30 pm
+BankHandlowy,Bank Handlowy w Warszawie SA,10,10%,-0.008102,-0.002025,7:00 am to 2:45 pm
+BankOfCanada,National Bank of Canada,5,5%,-0.004402,-0.002935,1:30 pm to 8:00 pm
+BankOfMontreal,Bank of Montreal,3,5%,-0.007805,-0.005203,1:30 pm to 8:00 pm
+BankOfNovaScotia,Bank Of Nova Scotia,5,5%,-0.006284,-0.004189,1:30 pm to 8:00 pm
+BankPekao,Bank Pekao SA,5,10%,-0.015553,-0.003888,7:00 am to 2:45 pm
+BARC,Barclays plc,200,5%,-0.000177,-0.000118,7:00 am to 3:30 pm
+BarrickGold,Barrick Gold Corporation (USA),25,5%,-0.001618,-0.000694,1:30 pm to 8:00 pm
+BAS,BASF SE,5,5%,-0.005965,-0.00596,7:00 am to 3:30 pm
+BATS,British American Tobacco plc,15,5%,-0.004498,-0.002999,7:00 am to 3:30 pm
+BAYN,BAYER AG,5,5%,-0.008113,-0.008106,7:00 am to 3:30 pm
+BBBY,Bed Bath & Beyond Inc.,10,5%,-0.003435,-0.001472,1:30 pm to 8:00 pm
+BBVA,Banco Bilbao Vizcaya Argentaria SA,25,5%,-0.000514,-0.000514,7:00 am to 3:30 pm
+BCE,BCE INC,5,5%,-0.005033,-0.003355,1:30 pm to 8:00 pm
+BectonDickinson,Becton; Dickinson and Co,3,5%,-0.017918,-0.007679,1:30 pm to 8:00 pm
+BEI,Beiersdorf Aktiengesellschaft,5,5%,-0.006456,-0.006451,7:00 am to 3:30 pm
+BIDU,Baidu; Inc.(ADR),5,5%,-0.018357,-0.007868,1:30 pm to 8:00 pm
+BLT,BHP Billiton plc,30,5%,-0.001012,-0.000675,7:00 am to 3:30 pm
+BMW,BMW AG St,5,5%,-0.006,-0.005995,7:00 am to 3:30 pm
+BN,DANONE SA,10,5%,-0.004576,-0.004573,7:00 am to 3:30 pm
+BNP,BNP PARIBAS SA,10,5%,-0.004573,-0.004569,7:00 am to 3:30 pm
+Boryszew,Boryszew SA,100,10%,-0.001281,-0.00032,7:00 am to 2:45 pm
+BP.UK,BP plc,100,5%,-0.000394,-0.000262,7:00 am to 3:30 pm
+BPE,BCA POP. EMILIA R.,75,10%,-0.000324,-0.000324,7:00 am to 3:25 pm
+Bridgestone,Bridgestone Corp,10,5%,-0.342658,-0.3163,11:05 pm to 5:00 am
+BritishLand,British Land Company plc,40,5%,-0.000523,-0.000349,7:00 am to 3:30 pm
+BRK.B,Berkshire Hathaway Inc. Class B,5,5%,-0.015862,-0.006798,1:30 pm to 8:00 pm
+BrookfieldAsset,Brookfield Asset Management Inc,10,5%,-0.004225,-0.002817,1:30 pm to 8:00 pm
+BT,British Telecom Group plc,100,5%,-0.00026,-0.000173,7:00 am to 3:30 pm
+Burberry,Burberry Group plc,20,5%,-0.001426,-0.000951,7:00 am to 3:30 pm
+BZU,BUZZI UNICEM,30,5%,-0.001608,-0.001606,7:00 am to 3:25 pm
+C,Citigroup Inc.,10,5%,-0.005941,-0.002546,1:30 pm to 8:00 pm
+CA,CA; Inc.,15,5%,-0.003039,-0.001303,1:30 pm to 8:00 pm
+CA.FR,CARREFOUR SA,1,5%,-0.001586,-0.001585,7:00 am to 3:30 pm
+CaixaBank,CaixaBank SA,50,5%,-0.000293,-0.000293,7:00 am to 3:30 pm
+CanadianPacific,Canadian Pacific Railway Ltd,2,5%,-0.017532,-0.011688,1:30 pm to 8:00 pm
+CanadianRailway,Canadian National Railway Co,4,5%,-0.008432,-0.005621,1:30 pm to 8:00 pm
+Canon,Canon Inc.,10,5%,-0.272097,-0.251167,11:05 pm to 5:00 am
+CAP,CAP GEMINI SA,10,5%,-0.006508,-0.006503,7:00 am to 3:30 pm
+Carlsberg,Carlsberg A/S,5,5%,-0.048645,-0.046737,7:00 am to 3:30 pm
+CAT,Caterpillar Inc.,5,5%,-0.009955,-0.004266,1:30 pm to 8:00 pm
+CBA,Commonwealth Bank of Australia,5,5%,-0.009475,-0.001672,12:03 am to 6:00 am
+CBK,Commerzbank AG,40,5%,-0.000662,-0.000661,7:00 am to 3:30 pm
+CELG,Celgene Corporation,5,5%,-0.011367,-0.004871,1:30 pm to 8:00 pm
+Cenovus,Cenovus Energy Inc,20,5%,-0.00109,-0.000726,1:30 pm to 8:00 pm
+Centrica,Centrica plc,100,5%,-0.000168,-0.000112,7:00 am to 3:30 pm
+CGI,CGI Group Inc,5,5%,-0.005487,-0.003658,1:30 pm to 8:00 pm
+Chipotle,Chipotle Mexican Grill; Inc.,1,5%,-0.047137,-0.020202,1:30 pm to 8:00 pm
+CHKP,Check Point Software Technologies Ltd.,10,5%,-0.010541,-0.004518,1:30 pm to 8:00 pm
+CHRW,C.H. Robinson Worldwide; Inc.,10,5%,-0.006546,-0.002805,1:30 pm to 8:00 pm
+CMCSA,Comcast Corporation,10,5%,-0.003775,-0.001618,1:30 pm to 8:00 pm
+Coloplast,Coloplast A/S,5,5%,-0.038746,-0.037226,7:00 am to 3:30 pm
+Compass,Compass Group plc,30,5%,-0.001333,-0.000889,7:00 am to 3:30 pm
+Constellations,Constellations Software Inc,1,5%,-0.056892,-0.037928,1:30 pm to 8:00 pm
+Continental,Continental AG,3,5%,-0.014022,-0.01401,7:00 am to 3:30 pm
+CreditSuisse,Credit Suisse Group AG,10,5%,-0.000778,-0.001167,7:00 am to 3:20 pm
+CRH,CRH plc,20,5%,-0.00234,-0.00156,7:00 am to 3:30 pm
+CS,AXA SA,25,5%,-0.001657,-0.001656,7:00 am to 3:30 pm
+CSCO,Cisco Systems,20,5%,-0.003032,-0.0013,1:30 pm to 8:00 pm
+CSL,CSL Limited,5,5%,-0.015475,-0.002731,12:03 am to 6:00 am
+CTAS,Cintas Corporation,10,5%,-0.011765,-0.005042,1:30 pm to 8:00 pm
+CVX,Chevron Corporation,5,5%,-0.010352,-0.004437,1:30 pm to 8:00 pm
+DAI,Daimler AG,10,5%,-0.004727,-0.004723,7:00 am to 3:30 pm
+Dai-ichi,Dai-ichi Life Insurance Co Ltd,25,5%,-0.130975,-0.1209,11:05 pm to 5:00 am
+DanskeBank,Danske Bank A/S,20,5%,-0.017811,-0.017113,7:00 am to 3:30 pm
+DB1,Deutsche Borse AG,10,5%,-0.006209,-0.006204,7:00 am to 3:30 pm
+DBK,Deutsche Bank AG,15,5%,-0.001189,-0.001188,7:00 am to 3:30 pm
+DD,E.I. DuPont de Nemours & Co.,10,5%,-0.007566,-0.003243,1:30 pm to 8:00 pm
+DeltaAirLines,Delta Air Lines; Inc.,4,10%,-0.004685,-0.002008,1:30 pm to 8:00 pm
+Denso,Denso Corporation,10,5%,-0.343994,-0.317533,11:05 pm to 5:00 am
+DG,VINCI SA,10,5%,-0.005318,-0.005313,7:00 am to 3:30 pm
+DGE,Diageo plc,30,5%,-0.001907,-0.001272,7:00 am to 3:30 pm
+DIA,DIASORIN,1,5%,-0.004721,-0.004717,7:00 am to 3:25 pm
+DIS,Walt Disney Co.,5,5%,-0.010449,-0.004478,1:30 pm to 8:00 pm
+DNB,DNB ASA,20,5%,-0.012171,-0.008114,7:00 am to 2:20 pm
+DPW,Deutsche Post AG,20,5%,-0.002196,-0.002195,7:00 am to 3:30 pm
+DTE,Deutsche Telekom AG,40,5%,-0.001236,-0.001235,7:00 am to 3:30 pm
+easyJet,easyJet plc,5,10%,-0.001042,-0.000695,7:00 am to 3:30 pm
+EBAY,eBay Inc.,10,5%,-0.003289,-0.00141,1:30 pm to 8:00 pm
+EDF,EDF SA,20,5%,-0.000643,-0.000642,7:00 am to 3:30 pm
+Edwards,Edwards Lifesciences Corp,1,5%,-0.010977,-0.004704,1:30 pm to 8:00 pm
+EI,ESSILOR INTERNATIONAL SA,5,5%,-0.008232,-0.008226,7:00 am to 3:30 pm
+EN,BOUYGUES SA,15,5%,-0.00261,-0.002608,7:00 am to 3:30 pm
+Enbridge,Enbridge Inc,5,5%,-0.004459,-0.002973,1:30 pm to 8:00 pm
+Encana,Encana Corp,20,5%,-0.001275,-0.00085,1:30 pm to 8:00 pm
+ENEL,ENEL,250,5%,-0.000326,-0.000325,7:00 am to 3:25 pm
+ENI,ENI,30,5%,-0.001045,-0.001044,7:00 am to 3:25 pm
+EnskildaBank,Skandinaviska Enskilda Banken AB,30,5%,-0.007324,-0.007266,7:00 am to 3:25 pm
+EOAN,E.ON AG,40,5%,-0.000514,-0.000513,7:00 am to 3:30 pm
+EONRussia,EONRussia OAO,2000,20%,-0.00094,0.000592,7:00 am to 3:30 pm
+Ericsson,LM Ericsson AB,30,5%,-0.004053,-0.00402,7:00 am to 3:25 pm
+ErsteBank,Erste Group Bank AG,10,5%,-0.002367,-0.002365,7:00 am to 3:30 pm
+EXO,EXOR ORD,15,5%,-0.003647,-0.003644,7:00 am to 3:25 pm
+EXPE,Expedia; Inc.,5,5%,-0.013765,-0.005899,1:30 pm to 8:00 pm
+Experian,Experian plc,30,5%,-0.001355,-0.000903,7:00 am to 3:30 pm
+FairFax,Fairfax Financial Holdings Ltd,1,5%,-0.049963,-0.033309,1:30 pm to 8:00 pm
+FAST,Fastenal Company,10,5%,-0.004236,-0.001816,1:30 pm to 8:00 pm
+FB,Facebook Inc.,10,5%,-0.014391,-0.006168,1:30 pm to 8:00 pm
+Ferrari,Ferrari N.V.,1,5%,-0.008103,-0.003473,1:30 pm to 8:00 pm
+FiatChrysler,Fiat Chrysler Automobiles,5,5%,-0.00102,-0.000437,1:30 pm to 8:00 pm
+FitBit,Fitbit; Inc.,10,5%,-0.000535,-0.000229,1:30 pm to 8:00 pm
+FLEX,Flextronics International Ltd.,50,5%,-0.001605,-0.000688,1:30 pm to 8:00 pm
+FME,Fresenius Medical Care AG & Co. KGaA St,10,5%,-0.005676,-0.005672,7:00 am to 3:30 pm
+FNC,FINMECCANICA,75,5%,-0.001055,-0.001054,7:00 am to 3:25 pm
+FORD,Ford Motor Company,30,5%,-0.001056,-0.000453,1:30 pm to 8:00 pm
+Fortis,Fortis Inc,10,5%,-0.003637,-0.002425,1:30 pm to 8:00 pm
+Fortum,Fortum Oyj,20,5%,-0.000973,-0.000973,7:00 am to 3:30 pm
+FP,TOTAL SA,10,5%,-0.003358,-0.003356,7:00 am to 3:30 pm
+FrancoNevada,Franco-Nevada Corp,5,5%,-0.00822,-0.00548,1:30 pm to 8:00 pm
+FRE,Fresenius SE & Co. KGaA,5,5%,-0.005285,-0.005281,7:00 am to 3:30 pm
+Freeport,Freeport-McMoRan Inc,15,5%,-0.00114,-0.000489,1:30 pm to 8:00 pm
+FSLR,First Solar; Inc.,10,5%,-0.003536,-0.001515,1:30 pm to 8:00 pm
+G,GENERALI,30,10%,-0.001054,-0.001053,7:00 am to 3:25 pm
+GasNaturalSDG,Gas Natural SDG SA,10,5%,-0.001505,-0.001504,7:00 am to 3:30 pm
+Gazprom,Gazprom PAO,50,20%,-0.046566,0.029319,7:00 am to 3:30 pm
+GE,General Electric Co.,20,5%,-0.002727,-0.001169,1:30 pm to 8:00 pm
+GeorgeWeston,George Weston Ltd,5,5%,-0.010183,-0.006789,1:30 pm to 8:00 pm
+GILD,Gilead Sciences; Inc.,5,5%,-0.006246,-0.002677,1:30 pm to 8:00 pm
+GLE,SOCIETE GENERALE SA,10,5%,-0.003468,-0.003465,7:00 am to 3:30 pm
+GLEN,Glencore Xstrata plc,150,5%,-0.000247,-0.000164,7:00 am to 3:30 pm
+GM,General Motors Company,15,5%,-0.003182,-0.001364,1:30 pm to 8:00 pm
+GoDaddy,GoDaddy Inc.,10,5%,-0.003906,-0.001674,1:30 pm to 8:00 pm
+Goldcorp,Goldcorp Inc,20,5%,-0.001561,-0.001041,1:30 pm to 8:00 pm
+GOOG,Google Inc.,1,5%,-0.090795,-0.038912,1:30 pm to 8:00 pm
+GoPro,GoPro Inc,10,5%,-0.000828,-0.000355,1:30 pm to 8:00 pm
+GreatWest,Great-West Lifeco Inc,10,5%,-0.00281,-0.001873,1:30 pm to 8:00 pm
+Grifols,Grifols SA,5,5%,-0.001752,-0.001751,7:00 am to 3:30 pm
+GRMN,Garmin Ltd.,10,5%,-0.004979,-0.002134,1:30 pm to 8:00 pm
+GS,Goldman Sachs Group Inc.,5,5%,-0.020938,-0.008974,1:30 pm to 8:00 pm
+GSK,GlaxoSmithKline plc,30,5%,-0.001372,-0.000915,7:00 am to 3:30 pm
+H&M,H & M Hennes & Mauritz AB,8,5%,-0.015468,-0.015345,7:00 am to 3:25 pm
+Halliburton,Halliburton Company,10,5%,-0.004644,-0.00199,1:30 pm to 8:00 pm
+HandelsBank,Svenska Handelsbanken AB,8,5%,-0.008698,-0.008629,7:00 am to 3:25 pm
+HarleyDavidson,Harley-Davidson Inc,10,5%,-0.005113,-0.002191,1:30 pm to 8:00 pm
+HD,Home Depot Inc.,5,5%,-0.0152,-0.006514,1:30 pm to 8:00 pm
+HEI,HeidelbergCement AG,10,5%,-0.005773,-0.005768,7:00 am to 3:30 pm
+Heineken,Heineken N.V.,5,5%,-0.005991,-0.005986,7:00 am to 3:30 pm
+HEN3,Henkel AG & Co. KGaA Vz,5,5%,-0.00859,-0.008583,7:00 am to 3:30 pm
+Hitachi,Hitachi; Ltd.,50,5%,-0.048086,-0.044387,11:05 pm to 5:00 am
+Honda,Honda Motor Co Ltd,10,5%,-0.221325,-0.2043,11:05 pm to 5:00 am
+HPQ,Hewlett-Packard Co.,15,5%,-0.001847,-0.000792,1:30 pm to 8:00 pm
+HSBA,HSBC Holdings plc,75,5%,-0.000554,-0.000369,7:00 am to 3:30 pm
+Husky,Husky Energy Inc,20,5%,-0.001378,-0.000919,1:30 pm to 8:00 pm
+HydroOne,Hydro One Ltd,15,5%,-0.001927,-0.001285,1:30 pm to 8:00 pm
+IAG,International Consolidated Airlines Group,80,5%,-0.000495,-0.00033,7:00 am to 3:30 pm
+Iberdrola,Iberdrola SA,50,5%,-0.000482,-0.000482,7:00 am to 3:30 pm
+IBM,International Business Machines Corp.,5,5%,-0.01477,-0.00633,1:30 pm to 8:00 pm
+IFX,Infineon Technologies AG,75,5%,-0.001338,-0.001336,7:00 am to 3:30 pm
+ILMN,Illumina; Inc.,5,5%,-0.017206,-0.007374,1:30 pm to 8:00 pm
+ImperialBank,Canadian Imperial Bank Of Commerce,3,5%,-0.008885,-0.005924,1:30 pm to 8:00 pm
+ImperialOil,Imperial Oil Ltd,10,5%,-0.003268,-0.002179,1:30 pm to 8:00 pm
+IMT,Imperial Tobacco Group plc,20,5%,-0.003055,-0.002037,7:00 am to 3:30 pm
+Inditex,Inditex SA,2,5%,-0.002498,-0.002496,7:00 am to 3:30 pm
+ING,ING Groep NV,25,5%,-0.001048,-0.001047,7:00 am to 3:30 pm
+Intact,Intact Financial Corp,3,5%,-0.007762,-0.005175,1:30 pm to 8:00 pm
+INTC,Intel Corporation,20,5%,-0.003441,-0.001475,1:30 pm to 8:00 pm
+IPG,IMPREGILO,100,10%,-0.000219,-0.000218,7:00 am to 3:25 pm
+ISP,INTESA SANPAOLO,250,10%,-0.000196,-0.000196,7:00 am to 3:25 pm
+ISRG,Intuitive Surgical; Inc.,1,5%,-0.084647,-0.036277,1:30 pm to 8:00 pm
+Itochu,Itochu Corp,30,5%,-0.116675,-0.1077,11:05 pm to 5:00 am
+ITV,ITV plc,100,5%,-0.000164,-0.000109,7:00 am to 3:30 pm
+JapanTobacco,Japan Tobacco Inc,10,5%,-0.296003,-0.273233,11:05 pm to 5:00 am
+JD.com,JD.Com Inc (ADR),20,10%,-0.003993,-0.001711,1:30 pm to 8:00 pm
+jetBlue,JetBlue Airways Corporation,5,10%,-0.002069,-0.000887,1:30 pm to 8:00 pm
+JNJ,Johnson & Johnson,5,5%,-0.012345,-0.005291,1:30 pm to 8:00 pm
+JPM,J.P. Morgan Chase & Co.,10,5%,-0.008241,-0.003532,1:30 pm to 8:00 pm
+JSainsbury,J Sainsbury plc,100,5%,-0.000229,-0.000152,7:00 am to 3:30 pm
+KBC,KBC Groep NV,5,5%,-0.004562,-0.004558,7:00 am to 3:30 pm
+KDDI,KDDI Corp,10,5%,-0.221325,-0.2043,11:05 pm to 5:00 am
+KernelHolding,Kernel Holding SA,15,10%,-0.007521,-0.00188,7:00 am to 2:45 pm
+KGHMPolska,KGHM Polska Miedz SA,8,10%,-0.012819,-0.003205,7:00 am to 2:45 pm
+Kingfisher,Kingfisher plc,100,5%,-0.000306,-0.000204,7:00 am to 3:30 pm
+KO,Coca-Cola Co.,15,5%,-0.004267,-0.001829,1:30 pm to 8:00 pm
+Komatsu,Komatsu Ltd,20,5%,-0.19175,-0.177,11:05 pm to 5:00 am
+KONE,KONE Corporation,10,5%,-0.002985,-0.002982,7:00 am to 3:30 pm
+KPN,Royal KPN N.V.,100,5%,-0.000204,-0.000204,7:00 am to 3:30 pm
+LafargeHolcim,LafargeHolcim Ltd.,5,5%,-0.003021,-0.004531,7:00 am to 3:20 pm
+LasVegasSands,Las Vegas Sands Corp.,10,5%,-0.005521,-0.002366,1:30 pm to 8:00 pm
+LBTYA,Liberty Global Inc.,5,5%,-0.002929,-0.001255,1:30 pm to 8:00 pm
+LegalGeneral,Legal & General Group plc,100,5%,-0.000208,-0.000138,7:00 am to 3:30 pm
+LendingClub,LendingClub Corp,10,10%,-0.00055,-0.000236,1:30 pm to 8:00 pm
+LHA,Deutsche Lufthansa AG,30,5%,-0.00113,-0.001129,7:00 am to 3:30 pm
+LIN,Linde AG,5,5%,-0.011539,-0.01153,7:00 am to 3:30 pm
+LLOY,Lloyds Banking Group plc,600,5%,-0.00006,-0.00004,7:00 am to 3:30 pm
+Loblaw,Loblaw Companies Ltd,5,5%,-0.006396,-0.004264,1:30 pm to 8:00 pm
+LockheedMartin,Lockheed Martin Corporation,1,5%,-0.026516,-0.011364,1:30 pm to 8:00 pm
+LOGI,Logitech International SA (USA),30,5%,-0.003416,-0.001464,1:30 pm to 8:00 pm
+LOTOS,Grupa Lotos SA,20,10%,-0.006244,-0.001561,7:00 am to 2:45 pm
+LR,LEGRAND SA,10,5%,-0.004235,-0.004231,7:00 am to 3:30 pm
+LubelskiWegiel,Lubelski Wegiel Bogdanka SA,10,10%,-0.007483,-0.001871,7:00 am to 2:45 pm
+LUKoil,NK LUKoil PAO,2,20%,-1.070719,0.674156,7:00 am to 3:30 pm
+LUX,LUXOTTICA GROUP,10,5%,-0.003764,-0.003761,7:00 am to 3:25 pm
+LyondellBasell,LyondellBasell Industries NV USD,3,5%,-0.007883,-0.003378,1:30 pm to 8:00 pm
+Maersk,AP Moeller - Maersk A/S,1,5%,-0.871604,-0.837424,7:00 am to 3:30 pm
+Magna,Magna International Inc,5,5%,-0.005094,-0.003396,1:30 pm to 8:00 pm
+Magnit,Magnit PAO,1,20%,-3.440812,2.166437,7:00 am to 3:30 pm
+MagnitogorskIron,Magnitogorskiy metallurg. kombinat OAO,300,20%,-0.012043,0.007583,7:00 am to 3:30 pm
+MAN,MAN SE St,5,5%,-0.006752,-0.006746,7:00 am to 3:30 pm
+MANU,Manchester United,30,5%,-0.001607,-0.000689,1:30 pm to 8:00 pm
+Manulife,Manulife Financial Corp,5,5%,-0.001961,-0.001308,1:30 pm to 8:00 pm
+Mapfre,Mapfre SA,100,5%,-0.000216,-0.000215,7:00 am to 3:30 pm
+MarksSpencer,Marks and Spencer Group Plc,80,5%,-0.00032,-0.000214,7:00 am to 3:30 pm
+MasterCard,Mastercard Inc,10,5%,-0.011428,-0.004898,1:30 pm to 8:00 pm
+MB,MEDIOBANCA,75,10%,-0.000627,-0.000627,7:00 am to 3:25 pm
+MC,LVMH SA,5,5%,-0.015909,-0.015897,7:00 am to 3:30 pm
+MCD,McDonald s Corp.,5,5%,-0.014405,-0.006174,1:30 pm to 8:00 pm
+MCHP,Microchip Technology Incorporated,10,5%,-0.007796,-0.003341,1:30 pm to 8:00 pm
+MED,MEDIOLANUM,75,10%,-0.000511,-0.000511,7:00 am to 3:25 pm
+MelcoCrown,Melco Crown Entertainment Ltd (ADR),20,10%,-0.002051,-0.000879,1:30 pm to 8:00 pm
+MEO,METRO AG St,15,5%,-0.002127,-0.002126,7:00 am to 3:30 pm
+MitsubishiCorp,Mitsubishi Corp,20,5%,-0.164089,-0.151467,11:05 pm to 5:00 am
+MitsubishiUFJ,Mitsubishi UFJ Financial Group Inc.,60,5%,-0.049869,-0.046033,11:05 pm to 5:00 am
+Mitsui,Mitsui & Co Ltd,25,5%,-0.108947,-0.100567,11:05 pm to 5:00 am
+MizuhoFG,Mizuho Financial Group Inc.,200,5%,-0.014192,-0.0131,11:05 pm to 5:00 am
+ML,MICHELIN SCA,5,5%,-0.008245,-0.008238,7:00 am to 3:30 pm
+MMM,3M Company,5,5%,-0.019029,-0.008155,1:30 pm to 8:00 pm
+MNST,Monster Beverage Corp.,1,5%,-0.004637,-0.001987,1:30 pm to 8:00 pm
+MobTeleSyst,Mobilnye Telesystemy PAO,20,20%,-0.090996,0.057294,7:00 am to 3:30 pm
+Morrisons,Wm. Morrison Supermarkets plc,200,5%,-0.000201,-0.000134,7:00 am to 3:30 pm
+MRK,Merck & Co. Inc.,10,5%,-0.0062,-0.002657,1:30 pm to 8:00 pm
+MRK.DE,Merck KGaA,1,5%,-0.007489,-0.007483,7:00 am to 3:30 pm
+MS,MEDIASET,10,5%,-0.000253,-0.000253,7:00 am to 3:25 pm
+MS.USA,Morgan Stanley,15,5%,-0.004064,-0.001742,1:30 pm to 8:00 pm
+MSFT,Microsoft Corporation,15,5%,-0.006577,-0.002819,1:30 pm to 8:00 pm
+MUV2,Munchener Ruck AG,5,5%,-0.01198,-0.011971,7:00 am to 3:30 pm
+NAB,National Australia Bank Ltd.,10,5%,-0.003582,-0.000632,12:03 am to 6:00 am
+NaturalResources,Canadian Natural Resources Ltd,4,5%,-0.0035,-0.002333,1:30 pm to 8:00 pm
+NesteOil,Neste Oil Corporation,20,5%,-0.00258,-0.002578,7:00 am to 3:30 pm
+Nestle,Nestle SA,4,5%,-0.004568,-0.006852,7:00 am to 3:20 pm
+Netflix,Netflix Inc.,1,5%,-0.015267,-0.006543,1:30 pm to 8:00 pm
+NewmontMining,Newmont Mining Corporation,10,10%,-0.00327,-0.001401,1:30 pm to 8:00 pm
+Next,Next plc,2,5%,-0.00369,-0.00246,7:00 am to 3:30 pm
+Nintendo,Nintendo Co.; Ltd,10,10%,-2.185842,-2.0177,11:05 pm to 5:00 am
+Nissan,Nissan Motor Co.; Ltd.,30,5%,-0.079119,-0.073033,11:05 pm to 5:00 am
+NKE,NIKE Inc.,5,5%,-0.005032,-0.002157,1:30 pm to 8:00 pm
+Nokia,Nokia Oyj,50,5%,-0.000386,-0.000385,7:00 am to 3:30 pm
+Nomura,Nomura Holdings; Inc.,50,5%,-0.048483,-0.044753,11:05 pm to 5:00 am
+NordeaBank,Nordea Bank AB,25,5%,-0.008022,-0.007958,7:00 am to 3:25 pm
+NorilskNickel,GMK Norilsk Nickel PAO,1,20%,-3.124875,1.967514,7:00 am to 3:30 pm
+Novartis,Novartis AG,3,5%,-0.004378,-0.006567,7:00 am to 3:20 pm
+Novatek,Novatek OAO,10,20%,-0.255994,0.161181,7:00 am to 3:30 pm
+NovolipetskSteel,Novolipetsk Steel OAO,100,20%,-0.040929,0.02577,7:00 am to 3:30 pm
+NovoNordisk,Novo Nordisk A/S,5,5%,-0.019291,-0.018535,7:00 am to 3:30 pm
+Novozymes,Novozymes A/S,5,5%,-0.020719,-0.019907,7:00 am to 3:30 pm
+NTT,Nippon Telegraph & Telephone Corp,5,5%,-0.377,-0.348,11:05 pm to 5:00 am
+NTTDocomo,NTT Docomo Inc,20,5%,-0.196914,-0.181767,11:05 pm to 5:00 am
+NVDA,NVIDIA Corporation,30,5%,-0.013227,-0.005669,1:30 pm to 8:00 pm
+NXPSemicon,NXP Semiconductors NV,2,5%,-0.010476,-0.00449,1:30 pm to 8:00 pm
+OML,Old Mutual plc,250,5%,-0.000159,-0.000106,7:00 am to 3:30 pm
+OMV,OMV AG,10,5%,-0.003345,-0.003342,7:00 am to 3:30 pm
+OR,L'OREAL SA,5,5%,-0.012972,-0.012962,7:00 am to 3:30 pm
+OrangePolska,Orange Polska SA,100,10%,-0.000514,-0.000129,7:00 am to 2:45 pm
+ORCL,Oracle Corporation,15,5%,-0.004307,-0.001846,1:30 pm to 8:00 pm
+ORLEN,Polski Koncern Naftowy ORLEN SA,10,10%,-0.012309,-0.003077,7:00 am to 2:45 pm
+PaloAltoNetwork,Palo Alto Networks Inc,1,5%,-0.011323,-0.004853,1:30 pm to 8:00 pm
+Panasonic,Panasonic Corporation,30,5%,-0.098403,-0.090833,11:05 pm to 5:00 am
+PayPal,PayPal Holdings Inc.,10,5%,-0.004801,-0.002058,1:30 pm to 8:00 pm
+PAYX,Paychex; Inc.,10,5%,-0.00559,-0.002396,1:30 pm to 8:00 pm
+PCLN,Priceline.com Incorporated,1,5%,-0.175869,-0.075373,1:30 pm to 8:00 pm
+Pembina,Pembina Pipeline Corp,10,5%,-0.003669,-0.002446,1:30 pm to 8:00 pm
+PepsiCo,PepsiCo; Inc.,5,5%,-0.01105,-0.004736,1:30 pm to 8:00 pm
+PFE,Pfizer Inc.,15,5%,-0.003154,-0.001352,1:30 pm to 8:00 pm
+PG,Procter & Gamble Co.,5,5%,-0.008383,-0.003593,1:30 pm to 8:00 pm
+PGE,Polska Grupa Energetyczna SA,50,10%,-0.001276,-0.000319,7:00 am to 2:45 pm
+PGNiG,Polskie Gornictwo Naftowe i Gazownictwo SA,100,10%,-0.000704,-0.000176,7:00 am to 2:45 pm
+Philips,Royal Philips NV,20,5%,-0.002199,-0.002197,7:00 am to 3:30 pm
+PKOBank,PKO Bank Polski,20,10%,-0.003864,-0.000966,7:00 am to 2:45 pm
+Potash,Potash Corporation of Saskatchewan Inc,15,5%,-0.001872,-0.001248,1:30 pm to 8:00 pm
+PowerCorp,Power Corporation of Canada,10,5%,-0.002423,-0.001615,1:30 pm to 8:00 pm
+PowerFinancial,Power Financial Corp,10,5%,-0.002694,-0.001796,1:30 pm to 8:00 pm
+PRU,Prudential plc,40,5%,-0.001464,-0.000976,7:00 am to 3:30 pm
+PUB,PUBLICIS GROUPE SA,10,5%,-0.004581,-0.004577,7:00 am to 3:30 pm
+PZU,Powszechny Zaklad Ubezpieczen SA,1,10%,-0.005121,-0.00128,7:00 am to 2:45 pm
+QBE,QBE Insurance Group Ltd,40,5%,-0.001516,-0.000267,12:03 am to 6:00 am
+QCOM,QUALCOMM Incorporated,5,5%,-0.005614,-0.002406,1:30 pm to 8:00 pm
+QQQ,NASDAQ 100 TRUST,1,5%,-0.0134,-0.005743,1:30 pm to 8:00 pm
+Raiffeisen,Raiffeisen Bank International AG,10,5%,-0.001593,-0.001592,7:00 am to 3:30 pm
+RB,Reckitt Benckiser Group plc,10,5%,-0.006343,-0.004229,7:00 am to 3:30 pm
+RBS,Royal Bank of Scotland Group plc,150,5%,-0.000219,-0.000146,7:00 am to 3:30 pm
+ReedElsevier,Reed Elsevier plc,30,5%,-0.001354,-0.000903,7:00 am to 3:30 pm
+Repsol,Repsol SA,10,5%,-0.001032,-0.001031,7:00 am to 3:30 pm
+RestaurantBrands,Restaurant Brands International Inc,5,5%,-0.006796,-0.004531,1:30 pm to 8:00 pm
+Reuters,Thomson Reuters Corp,5,5%,-0.004871,-0.003248,1:30 pm to 8:00 pm
+RI,PERNOD RICARD SA,5,5%,-0.008269,-0.008262,7:00 am to 3:30 pm
+Richemont,Compagnie Financiere Richemont SA,3,5%,-0.004552,-0.006827,7:00 am to 3:20 pm
+RIMM,Research in Motion Limited,50,5%,-0.001009,-0.000432,1:30 pm to 8:00 pm
+RIO,Rio Tinto plc,15,5%,-0.00264,-0.00176,7:00 am to 3:30 pm
+RNO,RENAULT SAS,10,5%,-0.00601,-0.006006,7:00 am to 3:30 pm
+Roche,Roche Holding Ltd.,1,5%,-0.014853,-0.02228,7:00 am to 3:20 pm
+Rockwell,Rockwell Automation; Inc.,2,5%,-0.015296,-0.006556,1:30 pm to 8:00 pm
+Rosneft,Rosneft NK OAO,30,20%,-0.115247,0.072563,7:00 am to 3:30 pm
+Rostelecom,Rostelecom PAO,100,20%,-0.027559,0.017352,7:00 am to 3:30 pm
+RoyalBank,Royal Bank Of Canada,5,5%,-0.007748,-0.005166,1:30 pm to 8:00 pm
+RR,Rolls-Royce Holdings plc,50,5%,-0.000709,-0.000473,7:00 am to 3:30 pm
+RSAInsurance,RSA Insurance Group plc,100,5%,-0.000509,-0.000339,7:00 am to 3:30 pm
+RusHydro,Federal Hydro-Generating Co RusHydro PAO,10000,20%,-0.000305,0.000192,7:00 am to 3:30 pm
+RWE,RWE AG St,20,5%,-0.001176,-0.001175,7:00 am to 3:30 pm
+Ryanair,Ryanair Holdings Plc,15,10%,-0.001176,-0.001175,7:00 am to 3:30 pm
+Sampo,Sampo Oyj,10,5%,-0.003123,-0.00312,7:00 am to 3:30 pm
+SAN,SANOFI SA,5,5%,-0.006136,-0.006131,7:00 am to 3:30 pm
+SAP,SAP AG,10,5%,-0.006539,-0.006533,7:00 am to 3:30 pm
+Saputo,Saputo Inc,10,5%,-0.003644,-0.002429,1:30 pm to 8:00 pm
+Sberbank,Sberbank Rossii OAO,100,20%,-0.063279,0.039843,7:00 am to 3:30 pm
+SBUX,Starbucks Corporation,5,5%,-0.005963,-0.002555,1:30 pm to 8:00 pm
+SDF,K+S Aktiengesellschaft,20,5%,-0.00165,-0.001649,7:00 am to 3:30 pm
+Seven,Seven & I Holdings Co.; Ltd.,10,5%,-0.345114,-0.318567,11:05 pm to 5:00 am
+Severstal,Severstal PAO,8,20%,-0.277594,0.174781,7:00 am to 3:30 pm
+SFER,FERRAGAMO,20,5%,-0.001989,-0.001987,7:00 am to 3:25 pm
+SGO,SAINT GOBAIN SA,10,5%,-0.003496,-0.003493,7:00 am to 3:30 pm
+ShawCommunications,Shaw Communications Inc,15,5%,-0.002387,-0.001591,1:30 pm to 8:00 pm
+Shell,Royal Dutch Shell Plc,10,5%,-0.001718,-0.001717,7:00 am to 3:30 pm
+Shire,Shire plc,5,5%,-0.004041,-0.002694,7:00 am to 3:30 pm
+SIE,Siemens AG,5,5%,-0.008888,-0.00888,7:00 am to 3:30 pm
+SKY,SKY plc,40,5%,-0.000837,-0.000558,7:00 am to 3:30 pm
+SL,Standard Life plc,150,5%,-0.00032,-0.000213,7:00 am to 3:30 pm
+SmithNephew,Smith & Nephew plc,30,5%,-0.001104,-0.000736,7:00 am to 3:30 pm
+SnapChat,Snap Inc.,10,5%,-0.001939,-0.000831,1:30 pm to 8:00 pm
+Softbank,Softbank Corp,5,5%,-0.604572,-0.558067,11:05 pm to 5:00 am
+Sony,Sony Corporation,20,5%,-0.284086,-0.262233,11:05 pm to 5:00 am
+SouthwestAir,Southwest Airlines Co,5,10%,-0.005642,-0.002418,1:30 pm to 8:00 pm
+SPD,Sports Direct International plc,40,5%,-0.000249,-0.000166,7:00 am to 3:30 pm
+SPLS,Staples; Inc.,40,5%,-0.000846,-0.000363,1:30 pm to 8:00 pm
+SPM,SAIPEM,30,5%,-0.000027,-0.000027,7:00 am to 3:25 pm
+SRG,SNAM,100,10%,-0.000299,-0.000299,7:00 am to 3:25 pm
+SSE,SSE plc,25,5%,-0.001255,-0.000836,7:00 am to 3:30 pm
+STAN,Standard Chartered plc,40,5%,-0.000613,-0.000409,7:00 am to 3:30 pm
+Statoil,Statoil ASA,10,5%,-0.01275,-0.0085,7:00 am to 2:20 pm
+STM.IT,STMICROELECTRONICS,50,5%,-0.00102,-0.001019,7:00 am to 3:25 pm
+StoraEnso,Stora Enso Oyj,50,5%,-0.000778,-0.000777,7:00 am to 3:30 pm
+STX,Seagate Technology,10,5%,-0.004133,-0.001771,1:30 pm to 8:00 pm
+SU,SCHNEIDER ELECTRIC SA,10,5%,-0.00475,-0.004746,7:00 am to 3:30 pm
+Sumitomo,Sumitomo Mitsui Financial Group Inc.,10,5%,-0.293944,-0.271333,11:05 pm to 5:00 am
+Suncor,Suncor Energy Inc,10,5%,-0.003608,-0.002405,1:30 pm to 8:00 pm
+Suncorp,Suncorp Group Ltd,25,5%,-0.001652,-0.000292,12:03 am to 6:00 am
+SunLife,Sun Life Financial Inc,10,5%,-0.003737,-0.002492,1:30 pm to 8:00 pm
+Surgutneftegas,Surgutneftegas OAO,200,20%,-0.010264,0.006462,7:00 am to 3:30 pm
+Suzuki,Suzuki Motor Corporation,15,5%,-0.373353,-0.344633,11:05 pm to 5:00 am
+Swatch,The Swatch Group SA,1,5%,-0.021622,-0.032433,7:00 am to 3:20 pm
+Swedbank,Swedbank AB,15,5%,-0.014356,-0.014241,7:00 am to 3:25 pm
+Swisscom,Swisscom AG,1,5%,-0.025286,-0.03793,7:00 am to 3:20 pm
+SwissRe,Swiss Re AG,4,5%,-0.004888,-0.007331,7:00 am to 3:20 pm
+Syngenta,Syngenta AG,1,5%,-0.02516,-0.03774,7:00 am to 3:20 pm
+Synthos,Synthos S.A.,200,10%,-0.000549,-0.000137,7:00 am to 2:45 pm
+T,AT&T Corp,15,5%,-0.003718,-0.001593,1:30 pm to 8:00 pm
+Takeda,Takeda Pharmaceutical Co Ltd,10,5%,-0.413328,-0.381533,11:05 pm to 5:00 am
+Tatneft,Tatneft' OAO,20,20%,-0.14808,0.093236,7:00 am to 3:30 pm
+TAURON,TAURON Polska Energia SA,200,10%,-0.000369,-0.000092,7:00 am to 2:45 pm
+TeckResources,Teck Resources Ltd,10,5%,-0.002106,-0.001404,1:30 pm to 8:00 pm
+Telefonica,Telefonica SA,20,5%,-0.000689,-0.000689,7:00 am to 3:30 pm
+TelekomAustria,Telekom Austria AG,100,5%,-0.000497,-0.000497,7:00 am to 3:30 pm
+Telenor,Telenor ASA,20,5%,-0.011083,-0.007389,7:00 am to 2:20 pm
+TeliaSonera,TeliaSonera AB,50,5%,-0.002676,-0.002654,7:00 am to 3:25 pm
+Telstra,Telstra Corporation Ltd,100,5%,-0.000524,-0.000092,12:03 am to 6:00 am
+Telus,Telus Corp,10,5%,-0.003805,-0.002537,1:30 pm to 8:00 pm
+TEN,TENARIS,30,5%,-0.001004,-0.001003,7:00 am to 3:25 pm
+TEVA,Teva Pharmaceutical Industries Limited,10,5%,-0.002905,-0.001245,1:30 pm to 8:00 pm
+TimeWarner,Time Warner Inc,5,5%,-0.009495,-0.004069,1:30 pm to 8:00 pm
+TIT,TELECOM ITALIA,1,5%,-0.000061,-0.000061,7:00 am to 3:25 pm
+TKA,ThyssenKrupp AG,25,5%,-0.001606,-0.001605,7:00 am to 3:30 pm
+TOD,TODS,5,5%,-0.004434,-0.004431,7:00 am to 3:25 pm
+TorontoDominion,Toronto-Dominion Bank,5,5%,-0.005253,-0.003502,1:30 pm to 8:00 pm
+Toshiba,Toshiba Corp,100,5%,-0.016828,-0.015533,11:05 pm to 5:00 am
+Toyota,Toyota Motor Corp,5,5%,-0.431889,-0.398667,11:05 pm to 5:00 am
+TransCanada,Transcanada Corp,5,5%,-0.005224,-0.003483,1:30 pm to 8:00 pm
+TripAdvisor,TripAdvisor Inc,5,5%,-0.004284,-0.001836,1:30 pm to 8:00 pm
+TRN,TERNA,5,10%,-0.000347,-0.000347,7:00 am to 3:25 pm
+TRV,The Travelers Companies; Inc.,5,5%,-0.011746,-0.005034,1:30 pm to 8:00 pm
+TSCO,Tesco plc,150,5%,-0.000152,-0.000101,7:00 am to 3:30 pm
+TSLA,Tesla Motors Inc.,3,5%,-0.030228,-0.012955,1:30 pm to 8:00 pm
+TUI,TUI AG,10,5%,-0.000912,-0.000911,7:00 am to 3:30 pm
+TWTR,Twitter Inc.,10,5%,-0.001786,-0.000765,1:30 pm to 8:00 pm
+UBI,UBI BANCA,75,5%,-0.000257,-0.000257,7:00 am to 3:25 pm
+UBS,UBS AG,15,5%,-0.001592,-0.000682,1:30 pm to 8:00 pm
+UCG,UNICREDIT,10,5%,-0.001165,-0.001164,7:00 am to 3:25 pm
+UG,PEUGEOT SA,40,5%,-0.001285,-0.001284,7:00 am to 3:30 pm
+UL,UNIBAIL-RODAMCO SE,5,5%,-0.01597,-0.015957,7:00 am to 3:30 pm
+UNH,UnitedHealth Group Inc.,5,5%,-0.016789,-0.007195,1:30 pm to 8:00 pm
+Unilever,Unilever N.V.,10,5%,-0.003419,-0.003416,7:00 am to 3:30 pm
+UPMKymmene,UPM-Kymmene Corporation,20,5%,-0.001716,-0.001715,7:00 am to 3:30 pm
+Uralkaliy,Uralkaliy PAO,20,20%,-0.053184,0.033486,7:00 am to 3:30 pm
+URBN,Urban Outfitters; Inc.,15,5%,-0.001892,-0.000811,1:30 pm to 8:00 pm
+UTX,United Technologies Corporation,5,5%,-0.011777,-0.005047,1:30 pm to 8:00 pm
+Vale,Vale SA (ADR),40,10%,-0.000818,-0.000351,1:30 pm to 8:00 pm
+Valeant,Valeant Pharmaceuticals Intl Inc,1,5%,-0.001316,-0.000564,1:30 pm to 8:00 pm
+VIE,VEOLIA ENVIRONNEMENT SA,40,5%,-0.001341,-0.00134,7:00 am to 3:30 pm
+Visa,Visa Inc,3,5%,-0.008988,-0.003852,1:30 pm to 8:00 pm
+VOD,Vodafone Group plc,200,5%,-0.000183,-0.000122,7:00 am to 3:30 pm
+Voestalpine,Voestalpine AG,10,5%,-0.002735,-0.002733,7:00 am to 3:30 pm
+Volvo,AB Volvo,25,5%,-0.009956,-0.009877,7:00 am to 3:25 pm
+VOW3,Volkswagen AG Vz,5,5%,-0.009676,-0.009668,7:00 am to 3:30 pm
+VRTX,Vertex Pharmaceuticals Incorporated,5,5%,-0.011475,-0.004918,1:30 pm to 8:00 pm
+VZ,Verizon Communications Inc.,10,5%,-0.004415,-0.001892,1:30 pm to 8:00 pm
+WasteConnections,Waste Connections Inc,3,5%,-0.010357,-0.006904,1:30 pm to 8:00 pm
+WB,Weibo Corp (ADR),15,10%,-0.007611,-0.003262,1:30 pm to 8:00 pm
+Wesfarmers,Wesfarmers Ltd,10,5%,-0.005074,-0.000895,12:03 am to 6:00 am
+WesternDigital,Western Digital Corp,5,5%,-0.008419,-0.003608,1:30 pm to 8:00 pm
+Westpac,Westpac Banking Corp,10,5%,-0.003639,-0.000642,12:03 am to 6:00 am
+WFC,Wells Fargo & Co,10,5%,-0.005158,-0.002211,1:30 pm to 8:00 pm
+WMT,Wal-Mart Stores Inc.,5,5%,-0.00766,-0.003283,1:30 pm to 8:00 pm
+Woodside,Woodside Petroleum Ltd,10,5%,-0.003813,-0.000673,12:03 am to 6:00 am
+Woolworths,Woolworths Ltd,10,5%,-0.003051,-0.000538,12:03 am to 6:00 am
+WPP,WPP plc,20,5%,-0.001428,-0.000952,7:00 am to 3:30 pm
+WYNN,Wynn Resorts; Limited,5,5%,-0.011826,-0.005068,1:30 pm to 8:00 pm
+XOM,Exxon Mobil Corp.,5,5%,-0.007967,-0.003414,1:30 pm to 8:00 pm
+Yara,Yara International ASA,10,5%,-0.027079,-0.018053,7:00 am to 2:20 pm
+YHOO,Yahoo! Inc.,15,5%,-0.004876,-0.00209,1:30 pm to 8:00 pm
+ZurichInsurance,Zurich Insurance Group Ltd.,1,5%,-0.015892,-0.023838,7:00 am to 3:20 pm
