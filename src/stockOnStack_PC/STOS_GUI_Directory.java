@@ -16,7 +16,7 @@ import java.io.*;
 
 public class STOS_GUI_Directory{
 
-	static File setting = new File(".settings/com.cloudnest.stos.prefs");
+	static File setting = new File(".settings/org.cloudnest.stos.prefs");
 	static StringBuilder content = new StringBuilder();
 	private static JPanel contentPane;
 

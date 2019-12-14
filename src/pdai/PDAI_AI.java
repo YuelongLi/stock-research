@@ -353,8 +353,7 @@ public class PDAI_AI {
 			
 			Console.println("Finished");
 			Console.println("Total = "+stockTrader.total);
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
