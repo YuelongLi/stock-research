@@ -80,7 +80,7 @@ public class PDAI_CentralConsole {
 		JFileChooser temp = new JFileChooser();
 		temp.setDialogTitle("Please Choose the file");
 		SimpleDateFormat a = new SimpleDateFormat("MM.dd-HH:mm:ss");
-		AI.get(ListIndex).setPrice(new CSV("G:/StockDataBase/TSLA/2019/39_TSLA.csv"),a.parse("09.24-10:07:25"),a.parse("09.24-19:39:55"));
+		AI.get(ListIndex).setPrice(new CSV("G:/StockDataBase/AAPL/2017/44_AAPL.csv"),a.parse("10.30-10:09:50"),a.parse("10.30-12:09:50"));
 		System.out.println(" Saving...");
 		GUI.get(ListIndex).x = new ArrayList<Double>(AI.get(ListIndex).x);
 		GUI.get(ListIndex).y = new ArrayList<Double>(AI.get(ListIndex).y);

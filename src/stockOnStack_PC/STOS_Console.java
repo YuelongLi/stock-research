@@ -40,14 +40,15 @@ public class STOS_Console {
 			e.printStackTrace();
 			new JWarning("Unknown Exception");
 		}
-		if(stocks.get(stockIndex).getName()==null){
+		System.out.println(stocks);
+		if(stocks.get(stockIndex)==null||stocks.get(stockIndex).getName()==null){
 			stocks.remove(stockIndex);
 			return false;
-		}
+		}else 
+			stockIndex++;
 		for(Stock pass:stocks){
 			pass.print();
 		}
-		stockIndex++;
 		addConfig();
 		return true;
 	}
@@ -70,7 +71,7 @@ public class STOS_Console {
 	}
 	
 	protected static void addConfig() {
-		Stock stock = stocks.get(stockIndex-1);
+		Stock stock = stocks.get(stocks.size()-1);
 		String stockInfo = "";
 		stockInfo+=(stock.getSymbol()+"\n");
 		try{
